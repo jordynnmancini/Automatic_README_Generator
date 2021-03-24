@@ -51,13 +51,15 @@ const questions = [
         message: 'What does the user need to know about contributing to the repo?',
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
         message: 'What kind of license should your project have?',
+        choices: ['MIT', 'Apache', 'lgpl_2_1', 'GPL'],
     },
 ];
 
 // TODO: Create a function to write README file
+// this code was provided but I didn't need to use it to make the app run 
 function writeToFile(fileName, data) { }
 
 // TODO: Create a function to initialize app

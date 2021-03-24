@@ -19,7 +19,7 @@ function generateMarkdown(data) {
 
   ## Table of Contents
   - [Installation](#installation)
-  - [Tests] (#tests)
+  - [Tests](#tests)
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
@@ -40,8 +40,8 @@ function generateMarkdown(data) {
   ${data.license} 
 
   ## Questions
-  Project Owner: ${data.name}
-  GitHub: ${data.GitHub}
+  Project Owner: ${data.name} </br>
+  GitHub: [${data.GitHub}](https://github.com/${data.GitHub}/) </br> 
   Email: ${data.email}
 `;
 }
