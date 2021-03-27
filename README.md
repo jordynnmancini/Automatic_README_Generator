@@ -1,7 +1,7 @@
-# Automatic_README_Generator
+# Automatic_README_Generator   ![MIT](https://www.shields.io/badge/license-MIT-green)
 
   ## Description
-  The task of this project was to use node.js to create an application that will automatically generate a README file for a project - and I have used it to generate the README you are looking at right now. At this point, I am having trouble with the License Badge & Link - but the rest of the functionality has been built out successfully.
+  The task for this project was the create an application that can automatically generate a README file using node.js based on user input. The README file you are reading right now was created by using this application.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -14,16 +14,16 @@
   The following command(s) should be run to install dependencies: npm i.
 
   ## Tests
-  The following command(s) should be run in order to run tests: node run test. 
+  The following command(s) should be run in order to run tests: npm run test (testing functionality has not been built out yet). 
 
   ## Usage 
-  In order to use this repo, you must have node.js downloaded on your local machine. You also need to use the inquirer npm package.
+  this repo requires you to download node.js onto your local machine. You will also need to use the npm inquirer package.
 
   ## Contributing 
-  What you need to know about contributing to this repo: this is open source & is not perfect! 
+  What you need to know about contributing to this repo: feel free to fork & use this! but do not make changes to the master branch.
 
   ## License 
-  MIT 
+  This project is licensed under the [MIT](https://www.mit.edu/~amini/LICENSE.md) License. 
 
   ## Questions
   Project Owner: Jordyn Mancini </br>
