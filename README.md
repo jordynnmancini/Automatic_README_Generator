@@ -1,7 +1,7 @@
-# blahhhhhh
+# NAme
 
   ## Description
-  blah
+  description
 
   ## Table of Contents
   - [Installation](#installation)
@@ -11,21 +11,21 @@
   - [License](#license)
 
   ## Installation
-  The following command(s) should be run to install dependencies: blah.
+  The following command(s) should be run to install dependencies: npm i.
 
   ## Tests
-  The following command(s) should be run in order to run tests: etc. 
+  The following command(s) should be run in order to run tests: npm. 
 
   ## Usage 
-  blah
+  blahhh
 
   ## Contributing 
-  What you need to know about contributing to this repo: bleep bloop
+  What you need to know about contributing to this repo: blah
 
   ## License 
-  lgpl_2_1 
+  MIT 
 
   ## Questions
-  Project Owner: jordyn manicni
-  GitHub: [jordynnmancini](https://github.com/jordynnmancini/)
-  Email: jdflsf
+  Project Owner: jordyn mancini </br>
+  GitHub: [jordynnmancini](https://github.com/jordynnmancini/) </br> 
+  Email: blahhhh
